@@ -1,0 +1,17 @@
+{
+  "name": "async_queue",
+  "version": "1.0.0",
+  "description": "queue which for async/await in loop ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "queue",
+    "async",
+    "async-queue",
+    "nodejs"
+  ],
+  "author": "LinhND",
+  "license": "ISC"
+}
